@@ -26,6 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+<a href="https://gd0385.github.io/rocketseat-devlinks/" target="_blank">DevLinks</a>
 
 ## :memo: Licença
 
